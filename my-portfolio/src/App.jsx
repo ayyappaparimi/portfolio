@@ -54,8 +54,13 @@ export default function App() {
             <p className="eyebrow">DEVELOPR . CREATOR . PROBLEM SOLVER</p>
             <h1>Hi, I'm AYYAPPA PARIMI</h1>
             <p>
-              I build throughful web experinces using React.
-              Explore a section of my work below.
+              Overall 6+ years of experience as Java Full Stack Developer in designing and developing enterprise applications using
+Java 21, Spring Boot, Spring MVC, Microservices, Angular, ReactJS, TypeScript, and JavaScript. Strong background in
+building REST/SOAP APIs, cloud-native applications, and migrating monolithic systems to microservices architecture.
+Proficient in MySQL, MongoDB, Hibernate, JPA, Docker, Kubernetes, AWS (Lambda, EC2, S3), Jenkins, GitHub, and
+CI/CD pipelines. Experienced in TDD, JUnit, Mockito, and leveraging LLMs and Machine Learning for AI-driven test
+automation. Skilled in delivering scalable, secure, and high-performance solutions throughout the full SDLC using
+Agile and Waterfall methodologies.
             </p>
 
             <div className="hero-actions">
